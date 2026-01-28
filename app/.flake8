@@ -4,3 +4,15 @@ exclude =
     __pycache__,
     manage.py,
     settings.py
+ignore = 
+    E203,
+    E231,
+    E302,
+    E266,
+    W292,
+    W293,
+    E501,
+    W503,
+    F403,
+    F401
+max-line-length = 88
