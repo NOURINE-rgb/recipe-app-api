@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.9-alpine3.19
 LABEL maintainer="NOURINE-rgb"
 
 ENV PYTHONUNBUFFERED=1
