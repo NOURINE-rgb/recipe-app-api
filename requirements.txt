@@ -3,3 +3,4 @@ djangorestframework>=3.12.4,<3.13
 psycopg2>=2.8.6,<2.9
 drf-spectacular
 pillow
+django_filter
